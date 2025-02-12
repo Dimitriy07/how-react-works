@@ -15,7 +15,7 @@ This app showcases key ⚛️ React features through an interactive 🏷️ tabb
 
 1. 📥 Clone the repo:
    ```sh
-   git clone https://github.com/your-repo/react-tabs.git
+   git clone (https://github.com/Dimitriy07/how-react-works.git)
    cd react-tabs
    ```
 2. 📦 Install dependencies:
